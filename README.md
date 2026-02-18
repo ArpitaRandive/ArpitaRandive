@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpita Randive</h1>
-<h3 align="center">Data Scientist | ML Engineer | SQL & Python Enthusiast</h3>
+<h3 align="center">Data Analyst| AI/ML Engineer | SQL & Python Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;SQL+%7C+Python+%7C+Deep+Learning;Always+learning+new+things!" alt="Typing SVG" />
