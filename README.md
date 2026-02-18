@@ -55,14 +55,13 @@
 
 ---
 
-### 🚀 Featured Projects
-
 | Project | Description | Tech |
-|--------|-------------|------|
-| [Customer Churn SQL Analysis](https://github.com/ArpitaRandive/Customer-Churn-Revenue-Analysis-SQL-Project-) | End-to-end SQL project analyzing churn & revenue using CTEs, window functions | SQL |
-| [Online Retail Churn Prediction](https://github.com/ArpitaRandive/Online-Retail-Customer-Churn-Analysis) | Full ML pipeline with EDA, modeling, threshold tuning & cost analysis | Python, Scikit-learn |
-| [Sentiment Analysis](https://github.com/ArpitaRandive/sentiment-analysis) | ML & Deep Learning based sentiment analysis on tourist reviews | Python, NLP |
-| [Fairness-Aware RL](https://github.com/ArpitaRandive/Fairness-Aware-Reinforcement-Learning-Under-Distribution-Shift) | Deep RL system balancing fairness & efficiency in resource allocation | Python, RL |
+|---------|-------------|------|
+| [🏥 NHS Primary Care Forecasting](https://github.com/ArpitaRandive/Primary-Care-Demand-Forecasting-Stress-Early-Warning-System) | SARIMA forecasting & stress early warning system using real NHS GP appointment data | Python, SARIMA |
+| [📉 Customer Churn SQL Analysis](https://github.com/ArpitaRandive/Customer-Churn-Revenue-Analysis-SQL-Project-) | End-to-end SQL project analyzing churn & revenue using CTEs, window functions | SQL |
+| [🛒 Online Retail Churn Prediction](https://github.com/ArpitaRandive/Online-Retail-Customer-Churn-Analysis) | Full ML pipeline with EDA, modeling, threshold tuning & cost analysis | Python, Scikit-learn |
+| [💬 Sentiment Analysis](https://github.com/ArpitaRandive/sentiment-analysis) | ML & Deep Learning based sentiment analysis on tourist reviews | Python, NLP |
+| [⚖️ Fairness-Aware RL](https://github.com/ArpitaRandive/Fairness-Aware-Reinforcement-Learning-Under-Distribution-Shift) | Deep RL system balancing fairness & efficiency in resource allocation | Python, RL |
 
 ---
 
