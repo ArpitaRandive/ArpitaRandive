@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I'm currently working on **Fairness-Aware Reinforcement Learning**
+- 🔭 I'm currently building projects at the **intersection of Data & AI**
 - 🌱 I'm currently learning **Advanced Deep Learning & MLOps**
 - 💼 I love solving real-world business problems with data
 - ⚡ Fun fact: I turn messy data into meaningful insights!
